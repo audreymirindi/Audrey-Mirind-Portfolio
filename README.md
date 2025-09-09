@@ -17,7 +17,7 @@ This repository showcases projects at the intersection of **technology, creativi
 
 _Description:_ Learn more about Audrey Mirindi, his journey as a tech entrepreneur, developer, and creative innovator.  
 **Screenshot:**  
-![About Audrey Mirindi](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(3).png>)
+![About Audrey Mirindi](<./assets/screenshots/audrey-mirindi-portfolio-screenshots (4).png>)
 
 ---
 
@@ -25,7 +25,7 @@ _Description:_ Learn more about Audrey Mirindi, his journey as a tech entreprene
 
 _Description:_ Languages Audrey Mirindi is fluent in, useful for collaboration, mentorship, and international projects.  
 **Screenshot:**  
-![Speaking Languages](./assets/screenshots/audreymirindi-languages.png) <!-- Second screenshot: speaking languages -->
+![Speaking Languages](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(1).png>) <!-- Second screenshot: speaking languages -->
 
 ---
 
@@ -33,7 +33,7 @@ _Description:_ Languages Audrey Mirindi is fluent in, useful for collaboration, 
 
 _Description:_ Key technical and creative skills, highlighting areas of specialization.  
 **Screenshot:**  
-![Skills](./assets/screenshots/audreymirindi-skills.png) <!-- Third screenshot: skills -->
+![Skills](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(2).png>) <!-- Third screenshot: skills -->
 
 - AI and Machine Learning
 - Web & Mobile Development
