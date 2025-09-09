@@ -1,6 +1,6 @@
 # Audrey Mirindi Portfolio
 
-![Portfolio Banner](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(3).png>) <!-- Replace with your banner image -->
+![Audrey Mirindi](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(3).png>) <!-- First screenshot: About Audrey Mirindi -->
 
 ## Overview
 
@@ -11,41 +11,29 @@ This repository showcases projects at the intersection of **technology, creativi
 
 ---
 
-## Featured Projects
+## Featured Sections
 
-Here are some highlights from the portfolio:
+### About Audrey Mirindi
 
-### Project 1: AI Solution
-
-_Description:_ Briefly describe the project purpose, tech stack, and what makes it innovative.  
-_Tech Stack:_ Python, TensorFlow, Flask
-
-**Screenshot:**
-![Project 1 Screenshot](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(4).png>)
+_Description:_ Learn more about Audrey Mirindi, his journey as a tech entrepreneur, developer, and creative innovator.  
+**Screenshot:**  
+![About Audrey Mirindi](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(3).png>)
 
 ---
 
-### Project 2: Web Application
+### Speaking Languages
 
-_Description:_ Short description of the web app, what problem it solves, and your role.  
-_Tech Stack:_ HTML, CSS, JavaScript, PHP
-
-**Screenshot:**
-![Project 2 Screenshot](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(1).png>)
+_Description:_ Languages Audrey Mirindi is fluent in, useful for collaboration, mentorship, and international projects.  
+**Screenshot:**  
+![Speaking Languages](./assets/screenshots/audreymirindi-languages.png) <!-- Second screenshot: speaking languages -->
 
 ---
 
-### Project 3: Mobile Application
+### Skills & Expertise
 
-_Description:_ Briefly describe your mobile app, platform, and functionality.  
-_Tech Stack:_ Java/Kotlin, Android SDK
-
-**Screenshot:**
-![Project 3 Screenshot](<./assets/screenshots/audrey-mirindi-portfolio-screenshots%20(2).png>)
-
----
-
-## Skills & Expertise
+_Description:_ Key technical and creative skills, highlighting areas of specialization.  
+**Screenshot:**  
+![Skills](./assets/screenshots/audreymirindi-skills.png) <!-- Third screenshot: skills -->
 
 - AI and Machine Learning
 - Web & Mobile Development
